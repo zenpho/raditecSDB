@@ -1,7 +1,7 @@
 # raditecSDB
 Radikal Technlologies Spectralis reference book
 
-<font size="5em">Open document format [spc-databook.odt](spc-databook.odt)</font>
+<font size="5em">Open document format [SPC-databook.odt](SPC-databook.odt)</font>
 
 <img src="spectralis-audiofanzine.jpg" alt="front panel of the spectralis, from audiofanzine">
 
