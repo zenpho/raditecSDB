@@ -1,6 +1,8 @@
 # raditecSDB
 Radikal Technlologies Spectralis reference book
 
+There is a clear structured design to the spectralis interface, revealed in this document. Every menu screen (page) and thus every adjustable or displayable parameter value in the SPC OS v1.04k is listed here. 
+
 <font size="5em">Open document format [SPC-databook.odt](SPC-databook.odt)</font>
 
 <img src="spectralis-audiofanzine.jpg" alt="front panel of the spectralis, from audiofanzine">
@@ -15,10 +17,6 @@ From the manual: Radikal Technologies Spectralis is a "performance-oriented musi
 The front panel provides numerous push-buttons and rotary encoder controls (also with push-button functions) and the Spectralis OS v1.04k can display a series of menus (tagged with a page number of the total available e.g. page 2/27).
 
 ## How to use this document
-
-There is a clear structured design to the spectralis interface, revealed in this document.
-
-Every menu screen (page) and thus every adjustable or displayable parameter value in the SPC OS v1.04k is listed here. 
 
 In my workspace, I print out and keep this next to the hardware or view on screen using "find" or "search" functions to locate the name or description or label of a desired parameter or label.
 
